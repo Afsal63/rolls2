@@ -1,0 +1,222 @@
+.background{
+    height: 100vh;
+    background-size: cover;
+   display: flex;
+ width: 100%;
+background-image: url(Rolls.jpg );
+background-repeat: no-repeat;
+
+   
+}
+
+body{
+margin: 0%;
+}
+
+.head{
+    height: 100px;
+    width: 200%;
+   display: flex;
+    border-bottom: 1px solid white;
+    position: fixed;
+}
+
+
+ul{
+    color: white;
+    list-style-type: none;
+    font-size: 1rem;
+    text-orientation: sideways;
+    display: flex;
+    
+    
+
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+#gap{
+    text-indent: 80px;
+    
+
+}
+#ic{
+    font-size: 1.5rem;
+    
+}
+
+.head img{
+   width: 75x;
+   height: 75px;
+   padding-left: 650%;
+   margin-bottom: 100%;
+  
+ 
+
+}
+#last{
+    padding-left: 300%;
+}
+
+.center{
+
+    display: flex;
+
+}
+.heading{
+    margin-top: 23%;
+    margin-left: 41%;
+    text-align: center;
+}
+.heading h1{
+    color: white;
+    font-family: 'Times New Roman', serif;
+}
+.gost{
+font-size: 5rem;
+color: rgb(34, 103, 160);
+font-family: "Times New Roman", Times, serif;
+
+}
+.bac{
+    height: 100vh;
+    background-size: cover;
+   display: flex;
+ width: 100%;
+background-image: url(rolz2.webp );
+background-repeat: no-repeat;
+text-align: center;
+  
+}
+.bac h1{
+    color: white;
+    font-size: 3rem;
+    margin-top: 25%;
+    margin-left: 25%;
+    font-family: 'Brush Script MT', cursive;
+    word-spacing: 20px;
+}
+.bottom{
+    
+    width: 100%;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: -2%;
+}
+.bottom h1{
+    color: white;
+   font-family: 'Times New Roman', serif;
+    font-size: 2rem;
+    
+}
+.CON{
+    font-size: 1rem;
+    color: white;
+    word-spacing: 2px;
+
+}
+.main-bottom{
+width: 100%;
+height: 700px;
+background-color: rgb(0, 0, 0);
+align-items: center;
+margin-top: -2%;
+display: flex;
+
+
+}
+.image1{
+   
+   
+  
+   
+    margin:10px;
+   
+    width: 90%;
+   padding-left: 3%;
+   display: block;
+  
+   
+
+}
+.imagetext{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+  
+    display: flex;
+}
+#textm{
+    font-size: 1.5rem;
+    font-family: 'Courier New', monospace;
+    color: white;
+    padding-left: 35px;
+    font-weight: lighter;
+    border-left: 1px solid rgb(250, 250, 250);
+   
+    
+
+}
+#texts{
+    font-size: 1rem;
+    font-family: 'Courier New', monospace;
+    color: rgb(241, 241, 241);
+    padding-left: 25px;
+    font-weight: lighter;
+    border-left: 1px solid rgb(250, 250, 250);
+   
+}
+.footer-bootem{
+    margin-top: -2%;
+    width: 100%;
+    height: 68px;
+    background:rgb(0, 0, 0);
+    text-align: center;
+}
+.footer-bootem H1{
+    color: white;
+    font-size: 1rem;
+    font-family: Garamond, serif;
+    font-weight: lighter;
+}
+.footer-main{
+    border-top:solid .2px white;
+    width: 100%;
+    height: 180px;
+    background-color: rgb(0, 0, 0);
+    justify-content: space-around
+    
+}
+
+.foot{
+margin-top: -1%;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+.foot h1{
+
+    color: white;
+    font-size: .9rem;
+    font-family: Garamond, serif;
+    font-weight: lighter;
+}
+.foot p{
+
+    color: white;
+    font-size: .6rem;
+    font-family: Garamond, serif;
+    font-weight: lighter;
+}
+.footer-main{
+display: flex;
+}
+.footertext{
+    display: flex;
+    flex-direction: column;
+   
+
+}
